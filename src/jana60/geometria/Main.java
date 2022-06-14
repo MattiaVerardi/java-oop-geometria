@@ -13,7 +13,7 @@ public class Main {
 		Rettangolo rettangolo = new Rettangolo();
 
 		// chiedo all'utente di inserire i dati
-		System.out.println("Inserisci qui i dati per il calcolo dell'area e del perimetro!");
+		System.out.println("Inserisci qui i tuoi dati per il calcolo dell'area e del perimetro!");
 		System.out.print("base: ");
 		rettangolo.base = scan.nextInt();
 		System.out.print("altezza: ");
